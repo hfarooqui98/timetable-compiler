@@ -1,0 +1,573 @@
+[Command: python3 -u '/Users/hummadfarooqui/Documents/python program/Timetable Compiler.py']
+[<td aria-controls="DataTables_Table_0" aria-label="Class/Events: activate to sort column ascending" class="type-string sorting" colspan="1" role="columnheader" rowspan="1" tabindex="0">Class/Events</td>, <td aria-controls="DataTables_Table_0" aria-label="Description: activate to sort column ascending" class="type-string sorting" colspan="1" role="columnheader" rowspan="1" tabindex="0">Description</td>, <td aria-controls="DataTables_Table_0" aria-label="Day: activate to sort column ascending" class="type-string sorting" colspan="1" role="columnheader" rowspan="1" tabindex="0">Day</td>, <td aria-controls="DataTables_Table_0" aria-label="Start: activate to sort column ascending" class="type-string sorting" colspan="1" role="columnheader" rowspan="1" tabindex="0">Start</td>, <td aria-controls="DataTables_Table_0" aria-label="Finish: activate to sort column ascending" class="type-string sorting" colspan="1" role="columnheader" rowspan="1" tabindex="0">Finish</td>, <td aria-controls="DataTables_Table_0" aria-label="Duration: activate to sort column ascending" class="type-string sorting" colspan="1" role="columnheader" rowspan="1" tabindex="0">Duration</td>, <td aria-controls="DataTables_Table_0" aria-label="Weeks: activate to sort column ascending" class="type-string sorting" colspan="1" role="columnheader" rowspan="1" tabindex="0">Weeks</td>, <td aria-controls="DataTables_Table_0" aria-label="Location: activate to sort column ascending" class="type-string sorting" colspan="1" role="columnheader" rowspan="1" tabindex="0">Location</td>, <td aria-controls="DataTables_Table_0" aria-label="Class/Events Date: activate to sort column ascending" class="type-string sorting" colspan="1" role="columnheader" rowspan="1" tabindex="0">Class/Events Date</td>, <td aria-controls="DataTables_Table_0" aria-label="Start Date: activate to sort column ascending" class="type-string sorting" colspan="1" role="columnheader" rowspan="1" tabindex="0">Start Date</td>, <td colspan="1" rowspan="1"></td>, <td class=" ">PHYC10008/U/1/SM2/P01/01</td>, <td class=" ">Practical 1</td>, <td class=" ">Monday</td>, <td class=" ">10:00</td>, <td class=" ">13:00</td>, <td class=" ">3:00</td>, <td class=" ">31‑39,41‑43</td>, <td class=" ">PAR-David Caro-173 (Laby IDEAS centre)</td>, <td class=" ">24 Jul 2017 - 18 Sep 2017, 02 Oct 2017 - 16 Oct 2017 </td>, <td class=" ">24 Jul 2017</td>, <td class=" ">PHYC10008/U/1/SM2/P01/02</td>, <td class=" ">Practical 1</td>, <td class=" ">Monday</td>, <td class=" ">14:00</td>, <td class=" ">17:00</td>, <td class=" ">3:00</td>, <td class=" ">31‑39,41‑43</td>, <td class=" ">PAR-David Caro-173 (Laby IDEAS centre)</td>, <td class=" ">24 Jul 2017 - 18 Sep 2017, 02 Oct 2017 - 16 Oct 2017 </td>, <td class=" ">24 Jul 2017</td>, <td class=" ">PHYC10008/U/1/SM2/P01/11</td>, <td class=" ">Practical 1</td>, <td class=" ">Monday</td>, <td class=" ">17:15</td>, <td class=" ">20:15</td>, <td class=" ">3:00</td>, <td class=" ">31‑39,41‑43</td>, <td class=" ">PAR-David Caro-173 (Laby IDEAS centre)</td>, <td class=" ">24 Jul 2017 - 18 Sep 2017, 02 Oct 2017 - 16 Oct 2017 </td>, <td class=" ">24 Jul 2017</td>, <td class=" ">PHYC10008/U/1/SM2/L01/01</td>, <td class=" ">Lecture 1</td>, <td class=" ">Monday</td>, <td class=" ">09:00</td>, <td class=" ">10:00</td>, <td class=" ">1:00</td>, <td class=" ">31‑39,41‑43</td>, <td class=" ">PAR-ERC-132 (Charles Pearson Theatre)</td>, <td class=" ">24 Jul 2017 - 18 Sep 2017, 02 Oct 2017 - 16 Oct 2017 </td>, <td class=" ">24 Jul 2017</td>, <td class=" ">PHYC10008/U/1/SM2/P01/03</td>, <td class=" ">Practical 1</td>, <td class=" ">Tuesday</td>, <td class=" ">09:00</td>, <td class=" ">12:00</td>, <td class=" ">3:00</td>, <td class=" ">31‑39,41‑43</td>, <td class=" ">PAR-David Caro-173 (Laby IDEAS centre)</td>, <td class=" ">25 Jul 2017 - 19 Sep 2017, 03 Oct 2017 - 17 Oct 2017 </td>, <td class=" ">25 Jul 2017</td>, <td class=" ">PHYC10008/U/1/SM2/P01/04</td>, <td class=" ">Practical 1</td>, <td class=" ">Tuesday</td>, <td class=" ">14:00</td>, <td class=" ">17:00</td>, <td class=" ">3:00</td>, <td class=" ">31‑39,41‑43</td>, <td class=" ">PAR-David Caro-173 (Laby IDEAS centre)</td>, <td class=" ">25 Jul 2017 - 19 Sep 2017, 03 Oct 2017 - 17 Oct 2017 </td>, <td class=" ">25 Jul 2017</td>, <td class=" ">PHYC10008/U/1/SM2/P01/12</td>, <td class=" ">Practical 1</td>, <td class=" ">Tuesday</td>, <td class=" ">17:15</td>, <td class=" ">20:15</td>, <td class=" ">3:00</td>, <td class=" ">31‑39,41‑43</td>, <td class=" ">PAR-David Caro-173 (Laby IDEAS centre)</td>, <td class=" ">25 Jul 2017 - 19 Sep 2017, 03 Oct 2017 - 17 Oct 2017 </td>, <td class=" ">25 Jul 2017</td>, <td class=" ">PHYC10008/U/1/SM2/P01/05</td>, <td class=" ">Practical 1</td>, <td class=" ">Wednesday</td>, <td class=" ">10:00</td>, <td class=" ">13:00</td>, <td class=" ">3:00</td>, <td class=" ">31‑39,41‑43</td>, <td class=" ">PAR-David Caro-173 (Laby IDEAS centre)</td>, <td class=" ">26 Jul 2017 - 20 Sep 2017, 04 Oct 2017 - 18 Oct 2017 </td>, <td class=" ">26 Jul 2017</td>, <td class=" ">PHYC10008/U/1/SM2/P01/06</td>, <td class=" ">Practical 1</td>, <td class=" ">Wednesday</td>, <td class=" ">14:00</td>, <td class=" ">17:00</td>, <td class=" ">3:00</td>, <td class=" ">31‑39,41‑43</td>, <td class=" ">PAR-David Caro-173 (Laby IDEAS centre)</td>, <td class=" ">26 Jul 2017 - 20 Sep 2017, 04 Oct 2017 - 18 Oct 2017 </td>, <td class=" ">26 Jul 2017</td>, <td class=" ">PHYC10008/U/1/SM2/P01/13</td>, <td class=" ">Practical 1</td>, <td class=" ">Wednesday</td>, <td class=" ">17:15</td>, <td class=" ">20:15</td>, <td class=" ">3:00</td>, <td class=" ">31‑39,41‑43</td>, <td class=" ">PAR-David Caro-173 (Laby IDEAS centre)</td>, <td class=" ">26 Jul 2017 - 20 Sep 2017, 04 Oct 2017 - 18 Oct 2017 </td>, <td class=" ">26 Jul 2017</td>, <td class=" ">PHYC10008/U/1/SM2/L02/01</td>, <td class=" ">Lecture 2</td>, <td class=" ">Wednesday</td>, <td class=" ">09:00</td>, <td class=" ">10:00</td>, <td class=" ">1:00</td>, <td class=" ">31‑39,41‑43</td>, <td class=" ">PAR-ERC-132 (Charles Pearson Theatre)</td>, <td class=" ">26 Jul 2017 - 20 Sep 2017, 04 Oct 2017 - 18 Oct 2017 </td>, <td class=" ">26 Jul 2017</td>, <td class=" ">PHYC10008/U/1/SM2/P01/07</td>, <td class=" ">Practical 1</td>, <td class=" ">Thursday</td>, <td class=" ">10:00</td>, <td class=" ">13:00</td>, <td class=" ">3:00</td>, <td class=" ">31‑39,41‑43</td>, <td class=" ">PAR-David Caro-173 (Laby IDEAS centre)</td>, <td class=" ">27 Jul 2017 - 21 Sep 2017, 05 Oct 2017 - 19 Oct 2017 </td>, <td class=" ">27 Jul 2017</td>, <td class=" ">PHYC10008/U/1/SM2/P01/08</td>, <td class=" ">Practical 1</td>, <td class=" ">Thursday</td>, <td class=" ">14:00</td>, <td class=" ">17:00</td>, <td class=" ">3:00</td>, <td class=" ">31‑39,41‑43</td>, <td class=" ">PAR-David Caro-173 (Laby IDEAS centre)</td>, <td class=" ">27 Jul 2017 - 21 Sep 2017, 05 Oct 2017 - 19 Oct 2017 </td>, <td class=" ">27 Jul 2017</td>, <td class=" ">PHYC10008/U/1/SM2/P01/14</td>, <td class=" ">Practical 1</td>, <td class=" ">Thursday</td>, <td class=" ">17:15</td>, <td class=" ">20:15</td>, <td class=" ">3:00</td>, <td class=" ">31‑39,41‑43</td>, <td class=" ">PAR-David Caro-173 (Laby IDEAS centre)</td>, <td class=" ">27 Jul 2017 - 21 Sep 2017, 05 Oct 2017 - 19 Oct 2017 </td>, <td class=" ">27 Jul 2017</td>, <td class=" ">PHYC10008/U/1/SM2/P01/09</td>, <td class=" ">Practical 1</td>, <td class=" ">Friday</td>, <td class=" ">10:00</td>, <td class=" ">13:00</td>, <td class=" ">3:00</td>, <td class=" ">31‑39,41‑43</td>, <td class=" ">PAR-David Caro-173 (Laby IDEAS centre)</td>, <td class=" ">28 Jul 2017 - 22 Sep 2017, 06 Oct 2017 - 20 Oct 2017 </td>, <td class=" ">28 Jul 2017</td>, <td class=" ">PHYC10008/U/1/SM2/P01/10</td>, <td class=" ">Practical 1</td>, <td class=" ">Friday</td>, <td class=" ">14:00</td>, <td class=" ">17:00</td>, <td class=" ">3:00</td>, <td class=" ">31‑39,41‑43</td>, <td class=" ">PAR-David Caro-173 (Laby IDEAS centre)</td>, <td class=" ">28 Jul 2017 - 22 Sep 2017, 06 Oct 2017 - 20 Oct 2017 </td>, <td class=" ">28 Jul 2017</td>, <td class=" ">PHYC10008/U/1/SM2/P01/15</td>, <td class=" ">Practical 1</td>, <td class=" ">Friday</td>, <td class=" ">17:15</td>, <td class=" ">20:15</td>, <td class=" ">3:00</td>, <td class=" ">31‑39,41‑43</td>, <td class=" ">PAR-David Caro-173 (Laby IDEAS centre)</td>, <td class=" ">28 Jul 2017 - 22 Sep 2017, 06 Oct 2017 - 20 Oct 2017 </td>, <td class=" ">28 Jul 2017</td>, <td class=" ">PHYC10008/U/1/SM2/L03/01</td>, <td class=" ">Lecture 3</td>, <td class=" ">Friday</td>, <td class=" ">09:00</td>, <td class=" ">10:00</td>, <td class=" ">1:00</td>, <td class=" ">31‑39,41‑43</td>, <td class=" ">PAR-ERC-132 (Charles Pearson Theatre)</td>, <td class=" ">28 Jul 2017 - 22 Sep 2017, 06 Oct 2017 - 20 Oct 2017 </td>, <td class=" ">28 Jul 2017</td>]
+Class/Events
+
+
+Description
+
+
+Day
+
+
+Start
+
+
+Finish
+
+
+Duration
+
+
+Weeks
+
+
+Location
+
+
+Class/Events Date
+
+
+Start Date
+
+
+
+
+
+PHYC10008/U/1/SM2/P01/01
+
+
+Practical 1
+
+
+Monday
+
+
+10:00
+
+
+13:00
+
+
+3:00
+
+
+31‑39,41‑43
+
+
+PAR-David Caro-173 (Laby IDEAS centre)
+
+
+24 Jul 2017 - 18 Sep 2017, 02 Oct 2017 - 16 Oct 2017
+
+
+24 Jul 2017
+
+
+PHYC10008/U/1/SM2/P01/02
+
+
+Practical 1
+
+
+Monday
+
+
+14:00
+
+
+17:00
+
+
+3:00
+
+
+31‑39,41‑43
+
+
+PAR-David Caro-173 (Laby IDEAS centre)
+
+
+24 Jul 2017 - 18 Sep 2017, 02 Oct 2017 - 16 Oct 2017
+
+
+24 Jul 2017
+
+
+PHYC10008/U/1/SM2/P01/11
+
+
+Practical 1
+
+
+Monday
+
+
+17:15
+
+
+20:15
+
+
+3:00
+
+
+31‑39,41‑43
+
+
+PAR-David Caro-173 (Laby IDEAS centre)
+
+
+24 Jul 2017 - 18 Sep 2017, 02 Oct 2017 - 16 Oct 2017
+
+
+24 Jul 2017
+
+
+PHYC10008/U/1/SM2/L01/01
+
+
+Lecture 1
+
+
+Monday
+
+
+09:00
+
+
+10:00
+
+
+1:00
+
+
+31‑39,41‑43
+
+
+PAR-ERC-132 (Charles Pearson Theatre)
+
+
+24 Jul 2017 - 18 Sep 2017, 02 Oct 2017 - 16 Oct 2017
+
+
+24 Jul 2017
+
+
+PHYC10008/U/1/SM2/P01/03
+
+
+Practical 1
+
+
+Tuesday
+
+
+09:00
+
+
+12:00
+
+
+3:00
+
+
+31‑39,41‑43
+
+
+PAR-David Caro-173 (Laby IDEAS centre)
+
+
+25 Jul 2017 - 19 Sep 2017, 03 Oct 2017 - 17 Oct 2017
+
+
+25 Jul 2017
+
+
+PHYC10008/U/1/SM2/P01/04
+
+
+Practical 1
+
+
+Tuesday
+
+
+14:00
+
+
+17:00
+
+
+3:00
+
+
+31‑39,41‑43
+
+
+PAR-David Caro-173 (Laby IDEAS centre)
+
+
+25 Jul 2017 - 19 Sep 2017, 03 Oct 2017 - 17 Oct 2017
+
+
+25 Jul 2017
+
+
+PHYC10008/U/1/SM2/P01/12
+
+
+Practical 1
+
+
+Tuesday
+
+
+17:15
+
+
+20:15
+
+
+3:00
+
+
+31‑39,41‑43
+
+
+PAR-David Caro-173 (Laby IDEAS centre)
+
+
+25 Jul 2017 - 19 Sep 2017, 03 Oct 2017 - 17 Oct 2017
+
+
+25 Jul 2017
+
+
+PHYC10008/U/1/SM2/P01/05
+
+
+Practical 1
+
+
+Wednesday
+
+
+10:00
+
+
+13:00
+
+
+3:00
+
+
+31‑39,41‑43
+
+
+PAR-David Caro-173 (Laby IDEAS centre)
+
+
+26 Jul 2017 - 20 Sep 2017, 04 Oct 2017 - 18 Oct 2017
+
+
+26 Jul 2017
+
+
+PHYC10008/U/1/SM2/P01/06
+
+
+Practical 1
+
+
+Wednesday
+
+
+14:00
+
+
+17:00
+
+
+3:00
+
+
+31‑39,41‑43
+
+
+PAR-David Caro-173 (Laby IDEAS centre)
+
+
+26 Jul 2017 - 20 Sep 2017, 04 Oct 2017 - 18 Oct 2017
+
+
+26 Jul 2017
+
+
+PHYC10008/U/1/SM2/P01/13
+
+
+Practical 1
+
+
+Wednesday
+
+
+17:15
+
+
+20:15
+
+
+3:00
+
+
+31‑39,41‑43
+
+
+PAR-David Caro-173 (Laby IDEAS centre)
+
+
+26 Jul 2017 - 20 Sep 2017, 04 Oct 2017 - 18 Oct 2017
+
+
+26 Jul 2017
+
+
+PHYC10008/U/1/SM2/L02/01
+
+
+Lecture 2
+
+
+Wednesday
+
+
+09:00
+
+
+10:00
+
+
+1:00
+
+
+31‑39,41‑43
+
+
+PAR-ERC-132 (Charles Pearson Theatre)
+
+
+26 Jul 2017 - 20 Sep 2017, 04 Oct 2017 - 18 Oct 2017
+
+
+26 Jul 2017
+
+
+PHYC10008/U/1/SM2/P01/07
+
+
+Practical 1
+
+
+Thursday
+
+
+10:00
+
+
+13:00
+
+
+3:00
+
+
+31‑39,41‑43
+
+
+PAR-David Caro-173 (Laby IDEAS centre)
+
+
+27 Jul 2017 - 21 Sep 2017, 05 Oct 2017 - 19 Oct 2017
+
+
+27 Jul 2017
+
+
+PHYC10008/U/1/SM2/P01/08
+
+
+Practical 1
+
+
+Thursday
+
+
+14:00
+
+
+17:00
+
+
+3:00
+
+
+31‑39,41‑43
+
+
+PAR-David Caro-173 (Laby IDEAS centre)
+
+
+27 Jul 2017 - 21 Sep 2017, 05 Oct 2017 - 19 Oct 2017
+
+
+27 Jul 2017
+
+
+PHYC10008/U/1/SM2/P01/14
+
+
+Practical 1
+
+
+Thursday
+
+
+17:15
+
+
+20:15
+
+
+3:00
+
+
+31‑39,41‑43
+
+
+PAR-David Caro-173 (Laby IDEAS centre)
+
+
+27 Jul 2017 - 21 Sep 2017, 05 Oct 2017 - 19 Oct 2017
+
+
+27 Jul 2017
+
+
+PHYC10008/U/1/SM2/P01/09
+
+
+Practical 1
+
+
+Friday
+
+
+10:00
+
+
+13:00
+
+
+3:00
+
+
+31‑39,41‑43
+
+
+PAR-David Caro-173 (Laby IDEAS centre)
+
+
+28 Jul 2017 - 22 Sep 2017, 06 Oct 2017 - 20 Oct 2017
+
+
+28 Jul 2017
+
+
+PHYC10008/U/1/SM2/P01/10
+
+
+Practical 1
+
+
+Friday
+
+
+14:00
+
+
+17:00
+
+
+3:00
+
+
+31‑39,41‑43
+
+
+PAR-David Caro-173 (Laby IDEAS centre)
+
+
+28 Jul 2017 - 22 Sep 2017, 06 Oct 2017 - 20 Oct 2017
+
+
+28 Jul 2017
+
+
+PHYC10008/U/1/SM2/P01/15
+
+
+Practical 1
+
+
+Friday
+
+
+17:15
+
+
+20:15
+
+
+3:00
+
+
+31‑39,41‑43
+
+
+PAR-David Caro-173 (Laby IDEAS centre)
+
+
+28 Jul 2017 - 22 Sep 2017, 06 Oct 2017 - 20 Oct 2017
+
+
+28 Jul 2017
+
+
+PHYC10008/U/1/SM2/L03/01
+
+
+Lecture 3
+
+
+Friday
+
+
+09:00
+
+
+10:00
+
+
+1:00
+
+
+31‑39,41‑43
+
+
+PAR-ERC-132 (Charles Pearson Theatre)
+
+
+28 Jul 2017 - 22 Sep 2017, 06 Oct 2017 - 20 Oct 2017
+
+
+28 Jul 2017
